@@ -1,2 +1,2 @@
-# Projeto Coleta Seletiva de Lixo
-Criação de um Software para uma empresa de coleta seletiva de lixo
+# SIColetaLixo
+Repositório de documentos e fontes do projeto de Sistemas de Informação para Gestão de Empresa de Coleta Seletiva de Lixo.
